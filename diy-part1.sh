@@ -18,3 +18,6 @@
 
 cd package/lean/
 git clone https://github.com/fw876/helloworld.git
+
+git clone https://github.com/kenzok8/openwrt-packages.git  package/openwrt-packages
+git clone https://github.com/kenzok8/small.git  package/openwrt-small
